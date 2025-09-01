@@ -1,6 +1,6 @@
 # 📘 ComPro Python
 
-This repository contains documentation and practice exercises from the **Computational Programming (ComPro)** course using **Python**.
+This repository contains documentation and practice exercises from the **Computer Programming (ComPro)** course using **Python**.
 
 ## 🎯 Purpose
 - Document notes from each session
